@@ -4,7 +4,7 @@
 
 <h2>Introdução:</h2>
 
-Meu nome é Tatiane Tanizaki e finalizei recentemente o Certified Tech Developer na Digital House. Minha busca constante pelo conhecimento e melhoria contínua se refletiu na minha trajetória como escoteira, onde aprendi a importância de buscar a excelência e superar desafios. Sou uma pessoa proativa, criativa e apaixonada pelo meu trabalho. Além disso, possuo um nível avançado de inglês e fluência em português, o que me permite me comunicar efetivamente em ambientes internacionais. Estou comprometida em continuar crescendo profissionalmente e contribuir de forma significativa em projetos desafiadores.
+Meu nome é Tatiane Tanizaki, prazer! Minha busca constante pelo conhecimento e melhoria contínua se refletiu na minha trajetória como escoteira, onde aprendi a importância de buscar a excelência e superar desafios. Sou uma pessoa proativa, criativa e apaixonada pelo meu trabalho. Além disso, possuo um nível avançado de inglês e espanhol, e fluência em português, o que me permite me comunicar efetivamente em ambientes internacionais. Estou comprometida em continuar crescendo profissionalmente e contribuir de forma significativa em projetos desafiadores.
 
 ### Conecte-se comigo:
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:ts.tanizaki@gmail.com)
